@@ -1,0 +1,39 @@
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe.config
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.pdb
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csprojResolveAssemblyReference.cache
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.MainForm.resources
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.Properties.Resources.resources
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csproj.GenerateResource.Cache
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.exe
+c:\users\haza\documents\visual studio 2012\Projects\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.pdb
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe.config
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.exe
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.pdb
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.pdb
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csprojResolveAssemblyReference.cache
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.MainForm.resources
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.Properties.Resources.resources
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csproj.GenerateResource.Cache
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe.config
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.exe
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.pdb
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.pdb
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csprojResolveAssemblyReference.cache
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.MainForm.resources
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.Properties.Resources.resources
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.2\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csproj.GenerateResource.Cache
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe.config
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.exe
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.pdb
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.pdb
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csprojResolveAssemblyReference.cache
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.MainForm.resources
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.Properties.Resources.resources
+E:\HAZA_DOCUMENTS\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.csproj.GenerateResource.Cache
+D:\FULL\HAZA_DOCUMENTS\HAZA_DRIVE\UANL-INSA-CAVILAM\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\bin\Debug\BasicGlucoTester.exe.config
+D:\FULL\HAZA_DOCUMENTS\HAZA_DRIVE\UANL-INSA-CAVILAM\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.exe
+D:\FULL\HAZA_DOCUMENTS\HAZA_DRIVE\UANL-INSA-CAVILAM\9no_semestre\Topicos_Selectos_BD1\Proyecto_Glucometro\V0.3\BasicGlucoTester\BasicGlucoTester\obj\Debug\BasicGlucoTester.pdb
